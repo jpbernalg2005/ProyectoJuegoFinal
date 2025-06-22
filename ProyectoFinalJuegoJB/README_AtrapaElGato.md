@@ -6,6 +6,8 @@ El objetivo del juego es bloquear al gato antes de que escape del tablero.
 ---
 ## ▶️ Video 
 
+https://youtu.be/kBf7dl14iAg
+
 ## 🎮 Descripción del Juego
 
 "Atrapa al Gato" es un juego de estrategia donde el jugador bloquea celdas para atrapar a un gato que intenta escapar del tablero. El gato se mueve automáticamente usando una estrategia de búsqueda inteligente.
